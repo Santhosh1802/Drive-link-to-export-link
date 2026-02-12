@@ -2,7 +2,7 @@
 
 /* TEAM */
   Name: Drive Link Converter Team
-  Site: https://drive-link-export.com
+  Site: https://drive-link-to-export-link.vercel.app
   Twitter: @drive-link-converter
   Location: Internet
 

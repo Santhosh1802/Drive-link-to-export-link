@@ -1,4 +1,4 @@
 Contact: support@drive-link-export.com
 Expires: 2027-02-12T00:00:00.000Z
 Preferred-Languages: en
-Canonical: https://drive-link-export.com/.well-known/security.txt
+Canonical: https://drive-link-to-export-link.vercel.app/.well-known/security.txt

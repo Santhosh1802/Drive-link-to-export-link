@@ -11,7 +11,7 @@
   "categories": ["productivity", "utilities"],
   "screenshots": [
     {
-      "src": "/og-image.png",
+      "src": "/favicon.png",
       "type": "image/png",
       "sizes": "1200x630",
       "form_factor": "wide"
