@@ -1,0 +1,55 @@
+{
+  "name": "Google Drive Link Converter",
+  "short_name": "Drive Converter",
+  "description": "Convert Google Drive, Docs, and Slides links into exportable URLs. Preview presentations, PDFs, images, and media files directly.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0f172a",
+  "background_color": "#ffffff",
+  "categories": ["productivity", "utilities"],
+  "screenshots": [
+    {
+      "src": "/og-image.png",
+      "type": "image/png",
+      "sizes": "1200x630",
+      "form_factor": "wide"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Convert Google Drive Link",
+      "short_name": "Convert Link",
+      "description": "Quickly convert your Google Drive links",
+      "url": "/?shortcut=convert",
+      "icons": [
+        {
+          "src": "/favicon.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

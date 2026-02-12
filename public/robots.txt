@@ -1,0 +1,25 @@
+# robots.txt - Google Drive Link Converter
+# Allow all search engines to crawl this site
+
+User-agent: *
+Allow: /
+Disallow: /assets/private/
+
+# Sitemaps
+Sitemap: https://drive-link-export.com/sitemap.xml
+
+# Crawl delay (optional - in seconds)
+Crawl-delay: 1
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /

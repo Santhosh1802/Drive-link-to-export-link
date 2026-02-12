@@ -1,0 +1,19 @@
+/* humanstxt.org */
+
+/* TEAM */
+  Name: Drive Link Converter Team
+  Site: https://drive-link-export.com
+  Twitter: @drive-link-converter
+  Location: Internet
+
+/* THANKS */
+  Technology: React, TypeScript, Vite
+  UI Framework: Tailwind CSS
+  Icons: Lucide React
+  Animation: Framer Motion
+
+/* SITE */
+  Last Update: 2026-02-12
+  Standards: HTML5, CSS3, JavaScript (ES6+)
+  Components: Custom React Components
+  Accessibility: WCAG 2.1 Level AA
